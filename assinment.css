@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    padding: 3px;
+    position:fixed;
+    margin: -80px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+.navbar h1{
+    color: purple;
+}
+.navbar div {
+    margin-top: 8px;
+    margin-left: 170px;
+}
+.navbar div button{
+    background-color: transparent;
+    border: none;
+    margin: 0px 10px;
+}
+.navbar div button a{
+    text-decoration: none;
+}
+.intro{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.intro .imgbox img{
+    height: 350px;
+    width: 350px;
+}
+.intro div h1{
+    color: purple;
+    margin: 26px;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.about{
+    background-image: url(/resourses/a55d382461799a49a163ec6665efef82.png);
+    background-size: cover;
+    height: 500px;
+    color: gray;
+    text-align: center;
+    margin: 50px;
+    font-size: 26px;
+    padding-top: 70px;
+}
+.skill{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 10px 10px purple inset ;
+    margin: 100px 150px;
+    text-align: center;
+    padding: 40px 0px;
+}
+.skill ul{
+    list-style: none;
+}
+.skill ul li{
+    color: purple;
+    margin: 7px 0px;
+    font-size: 15px;
+}
+.arch{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 10px 10px purple;
+    margin: 150px 150px;
+    text-align: center;
+    padding: 70px 0px;
+    height: 350px;
+    color: purple;
+}
+.contact{
+    text-align: left;
+        width: 700px;
+    margin: 40px 100px;
+    color: purple;
+    font-size: 20px;
+}
+.client{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: 300px 0px;
+}
+.client img{
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+}
