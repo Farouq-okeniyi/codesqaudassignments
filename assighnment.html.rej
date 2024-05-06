@@ -1,5 +1,9 @@
 diff a/assighnment.html b/assighnment.html	(rejected hunks)
-@@ -0,0 +1,62 @@
+@@ -112,3 +112,67 @@
+         </div>
+ </body>
+ </html>
++=======
 +<h1>Farouq's profile</h1>
 +
 +<h2>Profile</h2>
@@ -62,4 +66,4 @@ diff a/assighnment.html b/assighnment.html	(rejected hunks)
 +<button type="submit">submit from</button>
 +</fieldset>
 +</form>
-\ No newline at end of file
++>>>>>>> origin/main
